@@ -131,7 +131,7 @@ If you need **computer vision models running on real hardware**, I work with eng
     <img src="https://img.shields.io/badge/LinkedIn-Huzaif_Ur_Rehman_Aamir-0A66C2?style=flat-square" alt="Huzaif Ur Rehman Aamir on LinkedIn — Computer Vision and Edge AI Engineer"/>
   </a>
   <!-- TODO: replace your-email@example.com below with your real public email -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:huzaifurrehmanaamir@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Huzaif Ur Rehman Aamir for computer vision and edge AI contracts"/>
   </a>
 </div>
